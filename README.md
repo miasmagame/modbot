@@ -1,8 +1,11 @@
-# modbot
-Moderation bot for Miasma Game discord server
+<div align="center">
+  <a href="https://github.com/synesta/locus-helper">
+    <img src="MIasma.png" alt="Logo">
+  </a>
 
-## Commands
+## Notes
 
-## Examples
+## Setup
 
+## Command Example
 
