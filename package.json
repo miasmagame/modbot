@@ -1,0 +1,14 @@
+{
+  "name": "modbot",
+  "version": "1",
+  "description": "Moderation bot",
+  "main": "index.js",
+  "repository": "https://github.com/miasmagame/modbot",
+  "author": "Miasma",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3"
+  }
+}
